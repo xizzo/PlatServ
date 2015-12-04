@@ -1,0 +1,6 @@
+c:\users\gebruiker\documents\visual studio 2013\Projects\PlatServ\PlatServ\bin\Debug\PlatServ.exe.config
+c:\users\gebruiker\documents\visual studio 2013\Projects\PlatServ\PlatServ\bin\Debug\PlatServ.exe
+c:\users\gebruiker\documents\visual studio 2013\Projects\PlatServ\PlatServ\bin\Debug\PlatServ.pdb
+c:\users\gebruiker\documents\visual studio 2013\Projects\PlatServ\PlatServ\obj\Debug\PlatServ.csprojResolveAssemblyReference.cache
+c:\users\gebruiker\documents\visual studio 2013\Projects\PlatServ\PlatServ\obj\Debug\PlatServ.exe
+c:\users\gebruiker\documents\visual studio 2013\Projects\PlatServ\PlatServ\obj\Debug\PlatServ.pdb
