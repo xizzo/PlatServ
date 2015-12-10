@@ -110,6 +110,10 @@ namespace PlatServ
                     Program.ConsoleSay(this.IPAdress, "Pos update: " + xPos + " : " + yPos);
                     newUpdate = true;
                     break;
+                case 100:
+                    Program.RemoveClientID(this.clientID);
+                    KillConnection();
+                    break;
 
             }
         }

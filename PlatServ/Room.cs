@@ -73,5 +73,17 @@ namespace PlatServ
                 }
             }
         }
+
+        public void RemoveClientIDFromRoom(int clientID)
+        {
+            foreach(Client cl in connectedClients)
+            {
+                if(cl.clientID == clientID)
+                {
+                    connectedClients.Remove(cl);
+                    return;
+                }
+            }
+        }
     }
 }
